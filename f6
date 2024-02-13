@@ -1,0 +1,25 @@
+total 24
+dr-xr---w- 3 root   root   4096 Nov 28 00:40 file2
+-rw-rw-r-- 1 root root   13 Nov 28 00:41 test1
+-rwxrwxr-x 1 root root   13 Nov 28 00:43 t2
+-rw-rw-r-- 1 root root  306 Nov 29 14:57 t3
+.
+..
+.bash_history
+.bash_logout
+.bashrc
+.cache
+.profile
+.ssh
+.sudo_as_admin_successful
+.viminfo
+f1
+file2
+file3
+t1
+t2
+t3
+t1
+t4
+t5
+t6

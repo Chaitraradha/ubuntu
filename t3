@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov 27 23:57 file3
+-r-x--x-wx 1 root   ubuntu   13 Nov 28 00:33 t1
+dr-xr---w- 3 root   root   4096 Nov 28 00:40 file2
+-rw-rw-r-- 1 ubuntu ubuntu   13 Nov 28 00:41 test1
+-rwxrwxr-x 1 ubuntu ubuntu   13 Nov 28 00:43 t2
+-rw-rw-r-- 1 ubuntu ubuntu    0 Nov 29 14:57 t3
